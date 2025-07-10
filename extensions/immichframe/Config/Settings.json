@@ -1,0 +1,53 @@
+{
+  "General": {
+    "AuthenticationSecret": null,
+    "DownloadImages": false,
+    "RenewImagesDuration": 30,
+    "Webcalendars": [],
+    "RefreshAlbumPeopleInterval": 12,
+    "PhotoDateFormat": "dd. MM. yyyy",
+    "ImageLocationFormat": "City",
+    "WeatherApiKey": "",
+    "UnitSystem": "metric",
+    "WeatherLatLong": null,
+    "Webhook": null,
+    "Language": "en",
+    "Interval": 45,
+    "TransitionDuration": 2,
+    "ShowClock": false,
+    "ClockFormat": "hh:mm",
+    "ShowProgressBar": true,
+    "ShowPhotoDate": true,
+    "ShowImageDesc": false,
+    "ShowPeopleDesc": false,
+    "ShowAlbumName": false,
+    "ShowImageLocation": true,
+    "PrimaryColor": "#f5deb3",
+    "SecondaryColor": "#000000",
+    "Style": "none",
+    "BaseFontSize": "17px",
+    "ShowWeatherDescription": false,
+    "ImageZoom": false,
+    "ImagePan": false,
+    "ImageFill": false,
+    "Layout": "single"
+  },
+  "Accounts": [
+    {
+      "ImmichServerUrl": "http://immich-server:2283",
+      "ApiKey": "zXtuCVLZlEQ6lYfRPwkoWvdngnydIvl37GaNUpSsU",
+      "ImagesFromDate": null,
+      "ShowMemories": false,
+      "ShowFavorites": false,
+      "ShowArchived": false,
+      "ImagesFromDays": null,
+      "ImagesUntilDate": null,
+      "Rating": null,
+      "Albums": [
+        "2e58df3c-384b-4574-aa98-6996f78f1475"
+      ],
+      "ExcludedAlbums": [],
+      "People": []
+    }
+  ]
+}
